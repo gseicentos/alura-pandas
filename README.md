@@ -1,2 +1,2 @@
 # alura-pandas
-Practicing pandas in an Alura project
+Practicing ETL with pandas in an Alura project
